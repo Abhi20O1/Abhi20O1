@@ -1,5 +1,5 @@
 <div align="center">
-👋 Hello, I'm Abhishek Singh
+# 👋 Hello, I'm Abhishek Singh
 
 ### Data Scientist | AI/ML Engineer | Full-Stack Developer
 
@@ -10,6 +10,8 @@
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 </div>
+
+---
 
 ## 🎯 About Me
 
@@ -23,6 +25,8 @@ const developer = {
   philosophy: "Code with purpose, innovate with passion"
 };
 ```
+
+---
  
 ## 📊 GitHub Statistics
 
