@@ -22,3 +22,8 @@ const developer = {
   mainSkills: ["React", "Python", "Machine Learning", "Cloud"],
   philosophy: "Code with purpose, innovate with passion"
 };
+```
+📊 GitHub Statistics
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAbhi20O1%26show_icons%3Dtrue%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D3B82F6%26icon_color%3D3B82F6%26text_color%3DC3D1D9" /> <img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DAbhi20O1%26theme%3Dreact%26hide_border%3Dtrue%26background%3D0D1117%26stroke%3D3B82F6%26ring%3D3B82F6%26fire%3D3B82F6%26currStreakLabel%3D3B82F6" /> </div>
+
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAbhi20O1%26layout%3Dcompact%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D3B82F6%26text_color%3DC3D1D9%26langs_count%3D8" /> </div>
