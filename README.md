@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+👋 Hello, I'm Abhishek Singh
 
-<!--
-**Abhi20O1/Abhi20O1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist | AI/ML Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;Full-Stack+%7C+AI%2FML;Always+Learning%2C+Always+Innovating)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-5244a8323/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-abhi28031@gmail.com)
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+</div>
+
+## 🎯 About Me
+
+```javascript
+const developer = {
+  name: "Abhishek Singh",
+  role: "Data Scientist Trainee",
+  company: "Arcap Reit AI Solution",
+  location: "India 🇮🇳",
+  mainSkills: ["React", "Python", "Machine Learning", "Cloud"],
+  philosophy: "Code with purpose, innovate with passion"
+};
