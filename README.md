@@ -22,7 +22,7 @@ const developer = {
   role: "Data Scientist Trainee",
   company: "Arcap Reit AI Solution",
   location: "India 🇮🇳",
-  mainSkills: ["React", "Python", "Machine Learning", "Cloud"],
+  mainSkills: "React", "Python", "Machine Learning", "Cloud",
   philosophy: "Code with purpose, innovate with passion"
 };
 ```
