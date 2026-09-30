@@ -1,43 +1,74 @@
 <div align="center">
-  
-## 👋 Hello, I'm Abhishek Singh
 
-### Data Scientist | AI/ML Engineer | Full-Stack Developer
+# Hi, I’m Abhishek Singh 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;Full-Stack+%7C+AI%2FML;Always+Learning%2C+Always+Innovating)](https://git.io/typing-svg)
+### Data Scientist | Machine Learning & Computer Vision Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-5244a8323/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-abhi28031@gmail.com)
-
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-</div>
-
----
-
-## 🎯 About Me
-
-```javascript
-const developer = {
-  name: "Abhishek Singh",
-  role: "Data Scientist Trainee",
-  company: "Arcap Reit AI Solution",
-  location: "India 🇮🇳",
-  mainSkills: "React", "Python", "Machine Learning", "Cloud",
-  philosophy: "Code with purpose, innovate with passion"
-};
-```
-
----
- 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi20O1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C3D1D9&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=abhi20O1&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&date_format=M%20j%5B%2C%20Y%5D"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi20O1&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C3D1D9&langs_count=8"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-sd)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhi28031@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1VfBbH7ghhcoIHZ4u3PKNQioqVUVmKjvnSEY0K4Xib9s/edit?usp=sharing)
 
 </div>
+
+## About Me
+
+I’m a Computer Science graduate and aspiring Data Scientist focused on
+machine learning, data analytics, computer vision, and AI application
+development.
+
+I’m currently pursuing a Credit-Linked Program in Data Science with
+IIT Guwahati and Daksh Gurukul.
+
+- Former Data Scientist Trainee at Arcap REIT AI Solution
+- Looking for fresher and entry-level Data Science, Machine Learning,
+  and Computer Vision opportunities
+- Interested in building practical, deployable AI systems
+
+## Technical Skills
+
+- **Languages:** Python, R, SQL, C++, JavaScript
+- **Machine Learning:** Scikit-learn, feature engineering, preprocessing,
+  model evaluation
+- **Deep Learning:** TensorFlow, PyTorch, CNNs, data augmentation
+- **Computer Vision:** OpenCV, YOLO, EasyOCR, image processing,
+  object detection, image segmentation
+- **Deployment & Cloud:** Flask, REST APIs, AWS SageMaker, AWS S3,
+  AWS Lambda, Azure
+- **Tools:** Git, GitHub, Linux, Jupyter Notebook
+
+## Featured Projects
+
+### 🚘 Automatic Number Plate Recognition
+
+Real-time vehicle and license-plate recognition using YOLO, OpenCV,
+and EasyOCR.
+
+[View project →](https://github.com/Abhi20O1/Automatic-Number-Plate-Recognition)
+
+### 😊 Facial Mood Detection
+
+Facial-expression classification using OpenCV, Haar Cascades,
+classical machine learning, and the CK+ dataset.
+
+[View project →](https://github.com/Abhi20O1/Face_Emotion_Detection)
+
+### 🎯 YOLO Object Detection
+
+Object-detection experiments and computer-vision workflows using YOLO
+and Ultralytics.
+
+[View project →](https://github.com/Abhi20O1/YOLO11_Object_Detection_with_Ultralytics)
+
+### 📊 Machine Learning Projects
+
+Projects covering data preprocessing, model training, evaluation,
+and prediction workflows.
+
+[View project →](https://github.com/Abhi20O1/Machine_Learning)
+
+## Current Goals
+
+- Build production-ready machine-learning systems
+- Strengthen SQL, analytics, MLOps, and cloud deployment skills
+- Contribute to practical AI and computer-vision projects
+- Start a career in Data Science, Machine Learning, or Computer Vision
